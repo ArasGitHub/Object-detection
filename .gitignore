@@ -1,0 +1,11 @@
+#pycache files
+*.pyc
+
+
+
+
+*.swpp
+*.ipynb_checkpoint
+
+
+ 
